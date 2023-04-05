@@ -1,0 +1,12 @@
+body {
+  background-image: url(br.jpg);
+  font-family: "Courier New", Courier, monospace;
+  color: aliceblue;
+  text-align: center;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
